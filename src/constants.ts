@@ -10,7 +10,7 @@ export const ARTICLES: Article[] = [
     date: "May 12, 2026",
     rating: 5,
     readTime: "7 min read",
-    image: "https://images.unsplash.com/photo-1543739225-045c40134bc5?q=80&w=800&auto=format&fit=crop",
+    image: "https://plus.unsplash.com/premium_photo-1663039978729-6f6775725f89?q=80&w=869&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     preview: "Dubai (DXB) is one of the world's busiest hubs, but hidden within its terminals are oasis-like spots perfect for catching some Zs.",
     content: [
       "Dubai International Airport (DXB) is a massive city in itself, operating 24/7 with a constant flow of travelers.",
@@ -55,7 +55,7 @@ export const ARTICLES: Article[] = [
     date: "April 28, 2026",
     rating: 5,
     readTime: "8 min read",
-    image: "https://images.unsplash.com/photo-1571597433240-6644fcf7f33d?q=80&w=800&auto=format&fit=crop",
+    image: "https://unsplash.com/photos/people-walking-inside-amazon-building-surrounded-with-plants-O-Unw-ho1kQ",
     preview: "Consistently voted the world's best airport, Changi takes airport sleeping to a luxury level.",
     content: [
       "Singapore Changi Airport (SIN) isn't just an airport; it's a destination.",
@@ -78,7 +78,7 @@ export const ARTICLES: Article[] = [
     date: "May 20, 2026",
     rating: 4,
     readTime: "5 min read",
-    image: "https://images.unsplash.com/photo-1540339832862-47459980783f?q=80&w=800&auto=format&fit=crop",
+    image: "https://images.unsplash.com/photo-1701625211383-61e64af1f05c?q=80&w=774&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     preview: "Is that $60 entry fee really worth it? We break down the cost-benefit of paid lounge access.",
     content: [
       "The debate between 'Free' transit areas and 'Paid' lounges is as old as commercial flight.",
@@ -116,7 +116,7 @@ export const ARTICLES: Article[] = [
     date: "June 20, 2026",
     rating: 4,
     readTime: "7 min read",
-    image: "https://images.unsplash.com/photo-1544013583-43fdeba35402?q=80&w=800&auto=format&fit=crop",
+    image: "https://images.unsplash.com/photo-1496588152823-86ff7695e68f?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     preview: "JFK is famous for its chaos, but Terminal 5 and the TWA Hotel offer unique opportunities.",
     content: [
       "John F. Kennedy International (JFK) is loud, busy, and sprawling.",
@@ -203,7 +203,7 @@ export const PRODUCTS = [
     price: "$59.99",
     rating: 5,
     stars: "★★★★★",
-    image: "https://unsplash.com/photos/a-little-girl-sitting-in-a-car-seat-with-a-pink-pillow-j6V7srWQ5bQ",
+    image: "https://plus.unsplash.com/premium_photo-1687436749473-98f03cb51068?q=80&w=1374&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     description: "Scientifically proven neck support for sleeping in an upright position. Much better than U-shaped pillows."
   },
   {
@@ -212,7 +212,7 @@ export const PRODUCTS = [
     price: "$14.99",
     rating: 4.5,
     stars: "★★★★½",
-    image: "https://unsplash.com/photos/a-woman-laying-in-a-bed-with-a-blindfold-on-her-head-9rS8U6tIbtk",
+    image: "https://plus.unsplash.com/premium_photo-1727437241681-bb94c455185f?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     description: "100% natural silk mask that blocks every single photon of light. Essential for daytime layovers."
   },
   {
@@ -230,7 +230,7 @@ export const PRODUCTS = [
     price: "$45.00",
     rating: 4,
     stars: "★★★★☆",
-    image: "https://unsplash.com/photos/grey-hard-case-luggage-Pll7gOlLTpQ",
+    image: "https://images.unsplash.com/photo-1568571959361-3bffbad07499?q=80&w=1374&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     description: "Keep your belongings safe while you sleep. Heavy-duty metal construction with TSA approval."
   },
 ];
