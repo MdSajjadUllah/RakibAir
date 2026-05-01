@@ -1,20 +1,34 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# ✈️ AirTravel Guide Web App
 
-# Run and deploy your AI Studio app
+A modern, responsive web application for exploring airport rankings, travel tips, and aviation-related insights. Built with React, TypeScript, and Vite, this project delivers a smooth and interactive user experience.
 
-This contains everything you need to run your app locally.
+> ⚠️ This project was developed for a client.
 
-View your app in AI Studio: https://ai.studio/apps/1628f30f-806d-4fa2-bac4-51e28edafbe6
+---
 
-## Run Locally
+## 🚀 Features
 
-**Prerequisites:**  Node.js
+- 🌍 Airport rankings and travel insights
+- 🔍 Search and filter functionality
+- 📰 Articles and travel tips
+- 🌙 Dark / Light mode toggle
+- 📱 Fully responsive design
+- ⚡ Fast performance with Vite
+- 🎨 Smooth animations using Motion
+- 📬 Newsletter subscription UI
 
+---
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+## 🛠️ Tech Stack
+
+- **Frontend:** React 19 + TypeScript
+- **Build Tool:** Vite
+- **Styling:** Tailwind CSS
+- **Animations:** Motion
+- **Icons:** Lucide React
+- **Backend (basic setup):** Express.js
+- **Environment Config:** dotenv
+
+---
+
+## 📂 Project Structure
