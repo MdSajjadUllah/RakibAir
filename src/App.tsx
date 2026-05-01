@@ -958,7 +958,7 @@ export default function App() {
                       </div>
                       <div>
                         <p className="text-xs text-blue-300 font-bold uppercase tracking-wider">Email Us</p>
-                        <p className="font-medium">support@rakibair.com</p>
+                        <p className="font-medium">23102004@uap-bd.edu</p>
                       </div>
                     </div>
                     <div className="flex items-center gap-4">
@@ -981,13 +981,7 @@ export default function App() {
                     </div>
                   </div>
 
-                  <div className="mt-16 pt-12 border-t border-white/10">
-                    <div className="flex gap-4">
-                      <button className="w-10 h-10 rounded-full bg-white/5 flex items-center justify-center hover:bg-accent transition-colors"><Twitter size={18}/></button>
-                      <button className="w-10 h-10 rounded-full bg-white/5 flex items-center justify-center hover:bg-accent transition-colors"><Instagram size={18}/></button>
-                      <button className="w-10 h-10 rounded-full bg-white/5 flex items-center justify-center hover:bg-accent transition-colors"><Youtube size={18}/></button>
-                    </div>
-                  </div>
+                 
                 </div>
                 
                 <div className="lg:w-3/5 p-12">
@@ -1082,10 +1076,8 @@ export default function App() {
                 The world's most trusted community manual for airport sleepers. Helping you find comfort in the chaos since 2016.
               </p>
               <div className="flex gap-4">
-                <button className="p-2 bg-white/5 rounded-lg hover:bg-accent transition-colors"><Twitter size={18} /></button>
-                <button className="p-2 bg-white/5 rounded-lg hover:bg-accent transition-colors"><Instagram size={18} /></button>
-                <button className="p-2 bg-white/5 rounded-lg hover:bg-accent transition-colors"><Youtube size={18} /></button>
-                <button className="p-2 bg-white/5 rounded-lg hover:bg-accent transition-colors"><Linkedin size={18} /></button>
+                <button className="p-2 bg-white/5 rounded-lg hover:bg-accent transition-colors"><Facebook size={18} /></button>
+                
               </div>
             </div>
             <div>
