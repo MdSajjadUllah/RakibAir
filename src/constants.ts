@@ -55,7 +55,7 @@ export const ARTICLES: Article[] = [
     date: "April 28, 2026",
     rating: 5,
     readTime: "8 min read",
-    image: "https://unsplash.com/photos/people-walking-inside-amazon-building-surrounded-with-plants-O-Unw-ho1kQ",
+    image: "https://images.unsplash.com/photo-1556574641-8e44c462d1a1?q=80&w=870&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     preview: "Consistently voted the world's best airport, Changi takes airport sleeping to a luxury level.",
     content: [
       "Singapore Changi Airport (SIN) isn't just an airport; it's a destination.",
