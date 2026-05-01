@@ -203,7 +203,7 @@ export const PRODUCTS = [
     price: "$59.99",
     rating: 5,
     stars: "★★★★★",
-    image: "https://images.unsplash.com/photo-1520038410233-7141be7e6f97?q=80&w=400&auto=format&fit=crop",
+    image: "https://unsplash.com/photos/a-little-girl-sitting-in-a-car-seat-with-a-pink-pillow-j6V7srWQ5bQ",
     description: "Scientifically proven neck support for sleeping in an upright position. Much better than U-shaped pillows."
   },
   {
@@ -212,7 +212,7 @@ export const PRODUCTS = [
     price: "$14.99",
     rating: 4.5,
     stars: "★★★★½",
-    image: "https://images.unsplash.com/photo-1590074213032-15f573af5eec?q=80&w=400&auto=format&fit=crop",
+    image: "https://unsplash.com/photos/a-woman-laying-in-a-bed-with-a-blindfold-on-her-head-9rS8U6tIbtk",
     description: "100% natural silk mask that blocks every single photon of light. Essential for daytime layovers."
   },
   {
@@ -230,7 +230,7 @@ export const PRODUCTS = [
     price: "$45.00",
     rating: 4,
     stars: "★★★★☆",
-    image: "https://images.unsplash.com/photo-1558002038-103792e17734?q=80&w=400&auto=format&fit=crop",
+    image: "https://unsplash.com/photos/grey-hard-case-luggage-Pll7gOlLTpQ",
     description: "Keep your belongings safe while you sleep. Heavy-duty metal construction with TSA approval."
   },
 ];
